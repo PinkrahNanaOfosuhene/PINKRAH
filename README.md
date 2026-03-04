@@ -83,5 +83,5 @@ This repository contains code, notebooks, and scripts from my undergraduate and 
 
 B.Sc. Meteorology & Climate Science, KNUST, Ghana.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nana-ofosuhene-pinkrah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nana-pinkrah-4a4a73212)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/PinkrahNanaOfosuhene)
